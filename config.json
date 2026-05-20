@@ -1,0 +1,8 @@
+{
+  "threads": 100,
+  "numAccounts": 1000000,
+  "maxSwapPerDay": 20,
+  "delayAction": [3, 10],
+  "delayAccount": [30, 60],
+  "threadStarterDelay": [3, 10]
+}
